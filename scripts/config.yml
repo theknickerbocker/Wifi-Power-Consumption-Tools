@@ -1,0 +1,77 @@
+power_data_dir          : /Users/kevinrathbun/Documents/College/Dim_Research/data/power_data_csv
+transmission_data_dir   : /Users/kevinrathbun/Documents/College/Dim_Research/data/phone_data
+result_dir              : /Users/kevinrathbun/Documents/College/Dim_Research/results/
+result_plot_dir         : /Users/kevinrathbun/Documents/College/Dim_Research/results/graphs/
+baseline_data_filenames :
+  # -
+  # -
+  # -
+  # -
+cpu_core_counts         :
+  - 1
+  - 2
+  - 3
+  - 4
+cpu_frequencies         :
+  - 300000
+  - 1497600
+  - 2457600
+source_rates            :
+  - 1
+  - 3
+  - 5
+  - 6
+  - 10
+  - 15
+  - 25
+  - 35
+  - 55
+  - 70
+  - 95
+  - 100
+  - 200
+  - 400
+  - 800
+  - 1200
+  - 1500
+  - 1800
+  - 3000
+  - 4000
+  - 6000
+  - 8000
+  - 10000
+  - 12000
+  - 14000
+  - 16000
+offset_values           :
+  # 300000 :
+  #   1 :
+  #   2 :
+  #   3 :
+  #   4 :
+  # 1497600 :
+  #   1 :
+  #   2 :
+  #   3 :
+  #   4 :
+  # 2457600 :
+  #   1 :
+  #   2 :
+  #   3 :
+  #   4 :
+endtime_values          :
+  300000 :
+    1 : 363669400
+    2 : 347083500
+    3 : 363705700
+    4 : 362377300
+  1497600 :
+    1 : 363366800
+    2 : 354735100
+    3 : 361845900
+    4 : 352355500
+  2457600 :
+    1 : 362359700
+    2 : 362477900
+    3 : 352845000
+    4 : 350472300
